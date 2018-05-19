@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MinhaRede</string>
+    <string name="nome_da_empresa">Nome da Empresa</string>
+    <string name="gateway">Gateway</string>
+</resources>
